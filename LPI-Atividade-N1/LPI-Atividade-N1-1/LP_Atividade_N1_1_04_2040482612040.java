@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LP_Atividade_01_04_2040482612040
+public class LP_Atividade_N1_1_04_2040482612040
 {
 		public static final String instituicao = "FATEC Ipiranga";
 		public static final int prazo_maximo_padrao = 14;
