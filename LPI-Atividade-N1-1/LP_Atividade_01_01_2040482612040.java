@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LP-Atividade-01-01-2040482612040
+public class LP_Atividade_01_01_2040482612040
 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner (System.in);
