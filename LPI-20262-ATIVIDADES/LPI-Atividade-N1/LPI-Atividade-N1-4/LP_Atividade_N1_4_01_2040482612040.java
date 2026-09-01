@@ -7,7 +7,7 @@
 * Autor : Vitória Pereira de Lucena                                               *
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
 
-public class Main
+public class LP_Atividade_N1_4_01_2040482612040
 {
     private static final int TAMANHO_TABULEIRO  = 8;
 	public static void main(String[] args) {
